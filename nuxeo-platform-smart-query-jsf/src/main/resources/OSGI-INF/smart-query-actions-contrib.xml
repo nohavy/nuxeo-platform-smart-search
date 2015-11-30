@@ -9,7 +9,7 @@
       Adds a link to display the global smart search form.
     </documentation>
 
-    <action id="smart_search" link="smart_search_form"
+    <action id="smart_search" link="smart_search_form" enabled="false"
       label="command.smartSearch" order="20">
       <category>SEARCH_ACTIONS</category>
     </action>
